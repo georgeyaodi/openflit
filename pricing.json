@@ -321,6 +321,10 @@
             "promptPrice": 0.015,
             "completionPrice": 0.075
         },
+        "llama3:8b": {
+            "promptPrice": 0.0004,
+            "completionPrice": 0.0006
+        },
         "meta.llama3-8b-instruct-v1:0": {
             "promptPrice": 0.0004,
             "completionPrice": 0.0006
